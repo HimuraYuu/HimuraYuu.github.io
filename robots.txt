@@ -4,13 +4,11 @@ Allow: /
 Allow: /music/
 Allow: /album/
 Allow: /archives/
-
 Disallow: /json_data/
 Disallow: /js/
 Disallow: /css/
 Disallow: /live2d/
 Disallow: /vendors/
 Disallow: /fancybox/
-
-Sitemap: https://himurayuu.github.io/sitemap.xml
-Sitemap: https://himurayuu.github.io/baidusitemap.xml
+Sitemap: https://5zzdxe.coding-pages.com/sitemap.xml
+Sitemap: https://5zzdxe.coding-pages.com/baidusitemap.xml
