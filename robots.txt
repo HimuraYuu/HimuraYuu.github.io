@@ -4,6 +4,7 @@ Allow: /
 Allow: /music/
 Allow: /album/
 Allow: /archives/
+Allow: /categories/
 Disallow: /json_data/
 Disallow: /js/
 Disallow: /css/
